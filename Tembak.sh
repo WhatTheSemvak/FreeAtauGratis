@@ -95,7 +95,7 @@ fi
 if [ $ezz = 02 ] || [ $ezz = 2 ]
 then
 clear
-toilet -f  lean  "SMARTFREN"
+toilet -f  standard  "SMARTFREN"
 python2 Ni.py
 
 fi
