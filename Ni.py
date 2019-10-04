@@ -47,3 +47,6 @@ p.map(main,jobs)
 print("Mohon Tunggu Sebentar...")
 print("Setelah Ini Anda Akan Diminta Kode Verivikasi Yang Sudah DiKirim")
 input("\033[1;37m[?] Masukan Code Verivikasi Sms Otp =>\033[1;36m ")
+print("Code Verifikasi Benar!!")
+print("Kuota Akan Masuk 5 Menit Setelah Ini")
+sh Tembak.sh
