@@ -89,7 +89,7 @@ then
 clear
 toilet -f lean "Indosat"
 python2 Ni.py
-sh Tembak.sh
+
 fi
 
 if [ $ezz = 02 ] || [ $ezz = 2 ]
@@ -97,7 +97,7 @@ then
 clear
 toilet -f  lean  "SMARTFREN"
 python2 Ni.py
-sh Tembak.sh
+
 fi
 
 if [ $ezz = 03 ] || [ $ezz = 3 ]
@@ -105,7 +105,7 @@ then
 clear 
 toilet -f lean "Axis"
 python2 Ni.py
-sh Tembak.sh
+
 fi
 
 if [ $ezz = 04 ] || [ $ezz = 4 ]
@@ -113,14 +113,14 @@ then
 clear
 toilet -f lean "Telkomsel"
 python2 Ni.py
-sh Tembak.sh
+
 fi
 
 if [ $ezz = 05 ] || [ $ezz = 5 ]
 then
 clear
 python2 Ni.py
-sh Tembak.sh
+
 fi
 clear
 
