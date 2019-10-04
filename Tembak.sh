@@ -88,39 +88,39 @@ if [ $ezz = 1 ] || [ $ezz = 01 ]
 then
 clear
 toilet -f lean "Indosat"
-python2 
-sh MR.sh
+python2 Ni.py
+sh Tembak.sh
 fi
 
 if [ $ezz = 02 ] || [ $ezz = 2 ]
 then
 clear
-toilet -f  lean  "TELKOMSEL"
-php telkomsel.php
-sh MR.sh
+toilet -f  lean  "SMARTFREN"
+python2 Ni.py
+sh Tembak.sh
 fi
 
 if [ $ezz = 03 ] || [ $ezz = 3 ]
 then
 clear 
-toilet -f lean "PHD"
-php phd.php
-sh MR.sh
+toilet -f lean "Axis"
+python2 Ni.py
+sh Tembak.sh
 fi
 
 if [ $ezz = 04 ] || [ $ezz = 4 ]
 then
 clear
-toilet -f lean "TOKPED"
-php tokped.php
-sh MR.sh
+toilet -f lean "Telkomsel"
+python2 Ni.py
+sh Tembak.sh
 fi
 
 if [ $ezz = 05 ] || [ $ezz = 5 ]
 then
 clear
-python2 lazada.py
-sh MR.sh
+python2 Ni.py
+sh Tembak.sh
 fi
 clear
 
