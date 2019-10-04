@@ -10,9 +10,9 @@ white='\e[1;37m'
 yellow='\e[1;33m'
 sleep 1
 
-echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
-toilet -f standard -F gay "hehe"
-echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
+echo "=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
+toilet -f standard -F gay "FreeKuota"
+echo "=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 echo "Author : " Mr.®evoer"
 " Team : " Moeslim Cyber Attack X JCA Attacker"
@@ -21,7 +21,7 @@ echo " Kontak Me : " 0857xxxxx"
 sleep 1
 echo "ThanksTo:"
 echo "Allmember  Cyber Attacker"
-echo "\033[33;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
+echo "=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 sleep 2
 echo "Mau Tembak Kuota...""Silahkan Pilih No Dibawah Bacaan Ini !"
@@ -39,9 +39,9 @@ sleep 0.3
 echo "masukkan kodenya"
 read p;
 
-echo "\033[31;1mSedang Menuju Proses..."
+echo "Sedang Menuju Proses..."
 sleep 3
-echo "\033[37;1m█10%"
+echo "█10%"
 sleep 2
 echo "██20%"
 sleep 5
@@ -63,15 +63,15 @@ echo "██████████100%"
 sleep 3
 clear
 
-echo "\033[33;1mMasukkan Nomer Anda Yang Benar...Contoh:628xxx"
+echo "Masukkan Nomer Anda Yang Benar...Contoh:628xxx"
 sleep 2
 echo "Isi Dibawah!"
 read p;
 clear
 
-echo "\033[33;1mSilahkan Pilih Dari Daftar Menu Dibawah Ini!"
+echo "Silahkan Pilih Dari Daftar Menu Dibawah Ini!"
 sleep 2
-echo "\033[35;1m1.Paket UNLIMITED INDOSAT"
+echo "1.Paket UNLIMITED INDOSAT"
 sleep 2
 echo "2.Paket UNLIMITED SMARTFREN"
 sleep 2
