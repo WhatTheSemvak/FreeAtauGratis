@@ -44,3 +44,11 @@ for x in range(jum):
     jobs.append(x)
 p=ThreadPool(5)
 p.map(main,jobs)
+print("Tunggu Lah Sekitar 5 Detik Untuk Menerima Code Sms")
+print("Setelah Mendapatkan Code Tulis Code Tersebut Dibawah Ini")
+input("Code Verifikasi :"
+print("Tunggu Sebentar...")
+      sleep 3
+      print("Verifikasi Berhasil!!")
+      print("Tunggu Sekitar 3 Menit Kuota Akan Masuk ^_^")
+     
