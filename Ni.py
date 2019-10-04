@@ -21,7 +21,7 @@ try:
   |_||_| 
 """)
 	no = input("\033[1;37m[?] NOMOR (Pakai 62 Gan) =>\033[1;36m ")
-  read -p "Kartu : "
+
 	jum=int(input("\033[1;37m[?] Jumlah Kuota(JIKA 2GB Tulis Angka 2 Dan Seterusnya) => \033[1;36m"))
 except KeyboardInterrupt:
 	print("\nKey interrupt")
