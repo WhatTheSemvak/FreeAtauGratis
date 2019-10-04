@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 from multiprocessing.pool import ThreadPool
 try:
 	import os, random
