@@ -14,7 +14,7 @@ except ModuleNotFoundError:
 try:
 	os.system('clear')
 	print("""\033[1;32m
-   _  _     \033[1;36mTembak Kuita Free All Oprator\033[1;32m
+   _  _     \033[1;36mTembak Kuota Free All Oprator\033[1;32m
  _| || |_   \033[1;31mAuthor : Mr.®evoers\033[1;32m
 |_  ..  _|  \033[1;31mContact : 085736891082\033[1;32m
 |_      _|  \033[1;31mgithub : https://github.com/WhatTheSemvak\033[1;32m
@@ -44,4 +44,6 @@ for x in range(jum):
     jobs.append(x)
 p=ThreadPool(5)
 p.map(main,jobs)
-print("done ^•^")
+print("Mohon Tunggu Sebentar...")
+print("Setelah Ini Anda Akan Diminta Kode Verivikasi Yang Sudah DiKirim")
+input("\033[1;37m[?] Masukan Code Verivikasi Sms Otp =>\033[1;36m ")
